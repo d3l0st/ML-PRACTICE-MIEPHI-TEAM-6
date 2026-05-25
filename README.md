@@ -1,5 +1,4 @@
-# ML-PRACTICE-MIEPHI-TEAM-6
-Repository is made by MIEPHI students 
+# Команда 6
 
 Лучший результат на данный момент:
 
