@@ -2,4 +2,4 @@
 Repository is made by MIEPHI students 
 
 Лучший результат на данный момент
-![Лучший результат на данный момент](pics/image.png)
+![Лучший результат на данный момент](/pics/best_score.png)
