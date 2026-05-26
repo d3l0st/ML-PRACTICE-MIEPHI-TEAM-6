@@ -1,5 +1,6 @@
 # Выполнила: Команда 6
 
+| |
 |--------|
 | Егор Русаков |
 | Татьяна Паншина |
@@ -7,14 +8,16 @@
 | Юрий Тер-Погосян |
 | Слава Ефимов |
 
+# Результат на Kaggle
 
 Лучший результат на данный момент:
 
 
 ![Лучший результат на данный момент](/pics/best_score.png)
 
+# Презентация
 
-[Презентация](https://docs.google.com/presentation/d/1sC3gbCT4JIWaIv23MyAt1eGthgKCkABXnzILFskfxd4/edit?slide=id.g3e4612ee315_0_52#slide=id.g3e4612ee315_0_52)
+Презентацию проекта можно посмотреть по [ссылке](https://docs.google.com/presentation/d/1sC3gbCT4JIWaIv23MyAt1eGthgKCkABXnzILFskfxd4/edit?slide=id.g3e4612ee315_0_52#slide=id.g3e4612ee315_0_52)
 
 
 ## Описание задачи
@@ -39,8 +42,8 @@
 
 ### Признаки
 
-| Группа | Описание | Признаки |
-|--------|----------|----------|
+| Группа | Признаки |
+|--------|----------|
 | Общие молекулярные свойства | `MolWt`, `ExactMolWt`, `HeavyAtomMolWt`, `NumValenceElectrons`, `NumRadicalElectrons`, `MolLogP`, `MolMR`, `TPSA`, `LabuteASA` |
 | Электронные и зарядовые характеристики | `MaxPartialCharge`, `MinPartialCharge`, `MaxAbsPartialCharge`, `MinAbsPartialCharge`, `MaxAbsEStateIndex`, `MaxEStateIndex`, `MinAbsEStateIndex`, `MinEStateIndex`, а также все `PEOE_VSA*`, `EState_VSA*`, `VSA_EState*` |
 | Топологические и структурные | `Chi*`, `Kappa*`, `BalabanJ`, `BertzCT`, `HallKierAlpha`, `Ipc`, `FractionCSP3`, `RingCount` |
